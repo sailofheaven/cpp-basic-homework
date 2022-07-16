@@ -1,1 +1,3 @@
-# cpp-basic-homework
+# OTUS Homework
+
+- Working with Git
